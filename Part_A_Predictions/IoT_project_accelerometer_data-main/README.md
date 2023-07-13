@@ -1,0 +1,8 @@
+# IoT_project_accelerometer_data
+Code for the final project in the Internet of Things course 
+
+Note: there are 3 notebooks. 
+
+1) The IoT_project notebook overviews all code: training, validation, experimentation, and plotting. It is not recommended to be run but instead browsed.
+2) The activity_predictor notebook can receive new data and make predictions. Make a copy of the notebook and ensure that the neural network is loaded by uploading the 'activity_net.pkl' file into the runtime environment or downloading it and changing the address. The network does not need to be trained. It will perform the predictions on all CSV files that it is given. Please ensure that the CSV files are uploaded into the environment or that the address is changed, and that they are in a zip file. Additionally, if the CSV files are not in the correct format, the code will not run properly. The code can be tested on all training data by passing the 'data_set.zip' file.
+3) The step_counter notebook receives new data and counts the number of steps, however, it must first be trained. Make a copy of the notebook and pass the 'data_set.zip' file for the training data. The notebook is currently set to count the number of steps from one of the training files, however, this is not much of a feat. To test new data, please ensure that all CSVs are in the correct format and uploaded in a zip file. You can then copy and paste the same lines that handle the training data for the dest data, or predict for a single entry using the single_combine_and_extract function, but ensure that the data passed is in the correct format.   
