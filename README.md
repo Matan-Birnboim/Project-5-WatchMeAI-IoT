@@ -13,7 +13,7 @@ Final project in the Internet of Things course, in the field of electrical engin
 	  
 ## How to review
 
-- I recommend starting from reading the project report and the presentation overview guidlines, to understand the project (Project_Report.pdf, Presentation_Slides.pdf)
+- I recommend starting from reading the project report and the presentation overview guidlines, to understand the project (Project_Report.pdf, Presentation_Slides.pdf) and watch this video: https://www.youtube.com/watch?v=4ouJbpXEDs8&ab_channel=%D7%9E%D7%AA%D7%9F%D7%91%D7%99%D7%A8%D7%A0%D7%91%D7%95%D7%99%D7%9D
 
 - Second, look into the Predictions part (Part_A_Predictions), there is a full explanation of the process
 
