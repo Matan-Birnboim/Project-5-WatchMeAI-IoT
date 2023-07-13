@@ -19,7 +19,7 @@ We dedicate the project to the memory of Michal Sela, in the hope that it will s
 
 - Third, review the Arduino part (Arduino/final_arduino)
 
-- Last, if the App interests you, extract the App.zip files, there is A LOT to see thereand this is the place for you.
+- Last, if the App interests you, extract the App.7z file, there is A LOT to see thereand this is the place for you.
 
 - Depending on the field of expertise you would like to review, you can really start from anywhere...
 
